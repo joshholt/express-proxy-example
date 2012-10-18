@@ -1,0 +1,20 @@
+{
+  "name": "proxies",
+  "version": "0.0.1",
+  "description": "Testing proxy stuffs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "proxy"
+  ],
+  "author": "Josh Holt",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "~0.8.3",
+    "express": "~3.0.0rc5",
+    "colors": "~0.6.0-1"
+  }
+}
