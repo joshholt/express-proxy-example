@@ -16,5 +16,8 @@
     "http-proxy": "~0.8.3",
     "express": "~3.0.0rc5",
     "colors": "~0.6.0-1"
+  },
+  "scripts" : {
+    "start": "node server"
   }
 }
